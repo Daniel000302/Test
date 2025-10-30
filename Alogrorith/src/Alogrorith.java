@@ -16,6 +16,6 @@ public class Alogrorith {
     public static void main(String[] args) {
         double[] a={1,2,3,4,5,6,7,89};
         double number=SuZhuMax(a);
-        System.out.println(number+"你好，算法");
+        System.out.println(number+"你好，算法22");
     }
 }
