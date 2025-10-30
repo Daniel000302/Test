@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="12e88002-8667-45ca-a41b-fc7821b5e631" name="Default Changelist" comment="" />
+    <list default="true" id="12e88002-8667-45ca-a41b-fc7821b5e631" name="Default Changelist" comment="20205 1031 day01">
+      <change beforePath="$PROJECT_DIR$/Alogrorith/src/Alogrorith.java" beforeDir="false" afterPath="$PROJECT_DIR$/Alogrorith/src/Alogrorith.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +22,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Alogrorith/src/Alogrorith.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+            <state relative-caret-position="342">
+              <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -68,8 +70,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Alogrorith/src/Alogrorith.java" />
         <option value="$PROJECT_DIR$/Alogrorith/src/day02.java" />
+        <option value="$PROJECT_DIR$/Alogrorith/src/Alogrorith.java" />
       </list>
     </option>
   </component>
@@ -178,7 +180,7 @@
       <workItem from="1759549182039" duration="1245000" />
       <workItem from="1761832801971" duration="2883000" />
       <workItem from="1761839833911" duration="3455000" />
-      <workItem from="1761847344919" duration="1819000" />
+      <workItem from="1761847344919" duration="2180000" />
     </task>
     <task id="LOCAL-00001" summary="20205 1031 day01">
       <created>1761847474291</created>
@@ -212,7 +214,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14991000" />
+    <option name="totallyTimeSpent" value="15352000" />
   </component>
   <component name="TodoView" selected-index="2">
     <todo-panel id="selected-file">
@@ -246,7 +248,7 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5014045" side_tool="true" weight="0.3297587" />
       <window_info anchor="bottom" id="Messages" order="10" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.4985955" visible="true" weight="0.10455764" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="12" sideWeight="0.4985955" visible="true" weight="0.048257373" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -336,8 +338,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Alogrorith/src/Alogrorith.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+        <state relative-caret-position="342">
+          <caret line="18" column="40" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
         </state>
       </provider>
     </entry>
